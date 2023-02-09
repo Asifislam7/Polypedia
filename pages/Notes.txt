@@ -1,0 +1,1 @@
+Achor tag produces the rendering of the page with small circle in the page of the browser but the link in the next doesnt do the rendering of the page it directly opens the page
